@@ -1,3 +1,5 @@
-```(String first, String second) -> {
+```java
+(String first, String second) -> {
 	return 1
-}```
+}
+```
